@@ -1,0 +1,21 @@
+header{
+    background-color: blue;
+    height: 100px;
+    width: auto;
+}
+footer{
+    background-color: burlywood;
+    height: auto;
+    width: 40px;
+}
+main{
+    background-color: cadetblue;
+    height: auto;
+}
+ rightsidebar{
+  background-color: crimson;
+  height: 400px;
+  width: 100px;
+ }
+
+

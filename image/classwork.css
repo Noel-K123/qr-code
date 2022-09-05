@@ -1,0 +1,33 @@
+.header, footer{
+    background-color: aqua;
+    color: aqua;
+    padding: 5px;
+}
+
+img{
+    height: 100px;
+    width: 120px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+aside, section{
+    height: 100pv;
+}
+aside{
+    flex: 1;
+    background-color: burlywood;
+}
+section{
+    flex: 3;
+}
+@media screen {
+
+    
+}
+radialGradient

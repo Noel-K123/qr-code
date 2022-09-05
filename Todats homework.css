@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+}
+.sidebar{
+    background-color: red;
+    flex: 2;
+    height: 500px;
+}
+.content{
+    background-color: blue;
+    height: 500px;
+    flex: 4;
+}
+.sidebar{
+    background-color: goldenrod;
+    height: 500px;
+    flex: 1;
+}
+.header{
+    background-color: black;
+    height: 100px;
+    flex: 1;
+}
+.footer{
+    background-color: 
+    turquoise ;
+
+}

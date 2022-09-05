@@ -1,0 +1,39 @@
+{
+    box-sizing=border box;
+    margin:0px;
+
+}
+.body{
+    background-color: yellowgreen;
+}
+.container{
+
+}
+.one{
+    width: 250px;
+    height: 200px;
+    background-color: blue;
+    margin-top: 0;
+    margin-left: 40%;
+}
+.two{
+    width: 250px;
+    height: 200px;
+    background-color: blue;
+    margin-top: 15px;
+    margin-left: 20%;
+    margin-bottom: 30px;
+}
+.  body.div.h1{
+    margin-left: 40%;
+}
+.three{
+    
+    width: 250px;
+    height: 200px;
+    background-color: blue;
+    margin-bottom: 350%;
+    margin-left: 40%;
+
+
+}

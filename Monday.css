@@ -1,0 +1,15 @@
+body{
+    background-color: paleturquoise;
+}
+header{
+    background-color: orangered;
+    color: #fff;
+    display: flex;
+}
+h2{
+    margin-left: 45%;
+}
+img{
+    width: 60px;
+}
+
